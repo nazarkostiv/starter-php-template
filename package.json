@@ -1,7 +1,7 @@
 {
-  "name": "gulp-project",
+  "name": "starter-php-template",
   "version": "1.0.0",
-  "description": "First Gulp Project",
+  "description": "Template for faster work with .php files on your web-server",
   "devDependencies": {
     "browser-sync": "^2.12.5",
     "gulp": "^3.9.1"
